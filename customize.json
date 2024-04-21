@@ -1,7 +1,7 @@
 {
   "greeting": "He he",
-  "name": "",
-  "greetingText": "Chào cậu",
+  "name": "chào cậu",
+  "greetingText": "",
   "wishText": "May the js.prototypes always be with you! ;)",
   "imagePath": "img/ngoc.jpg",
   "text1": ":> Nay là ngày gì ấy nhỉ?",
